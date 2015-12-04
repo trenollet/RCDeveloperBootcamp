@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title></title>
+	</head>
+	<body>
+		<div id="header">
+			<p id="name">Timothy S. Renollet</p>
+			<a href="https://github.com/trenollet"><p id="email">Github Profile</p></a>
+		</div>
+		<div class="left">
+            <img src="reno.jpeg">
+        </div>
+		<div class="right">
+			<h4>History</h4>
+			<p>Raised on a small farm in Central Illinois, I spent most of my spare time tinkering with electronics and computers.</p>
+            <p>With over 25 years of industry experience, I now have the unique pleasure of leading a talented and passionate team of Solutions Engineers for a leading communications company based in Silicon Valley.</p>
+			<h4>Experience</h4>
+			<p>Director of Solutions Engineering, RingCentral, Inc. (2011 - Present)</p>
+			<ul>
+				<li>Built a World Class SE Team</li>
+                <li>Key contributor to feature improvements</li>
+				<li>Member of the Senior Sales Leadership</li>
+                    <ul>
+                        <li>Improved Technical Sales Process</li>
+                        <li>Increased Net New Sales</li>
+			</ul>
+			<h4>Skills</h4>
+			<p>Certifications: CTP, A+, Net+, Linux+, NCSS, Polycom, +++</p>
+			<p>Topologies: SIP, H.323, TinCan and String</p>
+		</div>
+		<div id="footer">
+			<p>20 Davis Drive, Belmont, CA 94002 | Tel: (650) 716-5051</p>
+		</div>
+	</body>
+</html>
